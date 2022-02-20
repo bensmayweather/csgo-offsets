@@ -1,5 +1,5 @@
 {
-  "timestamp": 1645350437,
+  "timestamp": 1645367713,
   "signatures": {
     "anim_overlays": 10640,
     "clientstate_choked_commands": 19760,
@@ -114,6 +114,7 @@
     "m_hActiveWeapon": 12040,
     "m_hBombDefuser": 10692,
     "m_hMyWeapons": 11784,
+    "m_hMyWearables": 12052,
     "m_hObserverTarget": 13212,
     "m_hOwner": 10716,
     "m_hOwnerEntity": 332,
